@@ -3,8 +3,8 @@
   --oliva:#1b221c; --oliva-2:#232c24; --oliva-3:#2c372d; --linha:#3a473b; --osso:#ece7dc; --osso-2:#c9c3b5; --cinza:#9aa196;
   --latao:#c9a24a; --latao-2:#a8852f; --latao-txt:#1a1405; --papel:#efeae0; --papel-2:#e2dccf; --tinta:#1f2620; --tinta-2:#4a5148;
   --aurora:#d8774a; --ok:#7fb069; --nao:#d06a5b; --foco:#c9a24a;
-  --f-tit:'Big Shoulders Display','Arial Narrow',Impact,sans-serif;
-  --f-txt:'Literata',Georgia,'Times New Roman',serif;
+  --f-tit:'Big Shoulders Display','Big Shoulders Fallback','Arial Narrow',Impact,sans-serif;
+  --f-txt:'Literata','Literata Fallback',Georgia,'Times New Roman',serif;
 }
 html{scroll-behavior:smooth;scroll-padding-top:12px}
 body{background:var(--oliva);color:var(--osso);font:400 1.1rem/1.68 var(--f-txt)}
