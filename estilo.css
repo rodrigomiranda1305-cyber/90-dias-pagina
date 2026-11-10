@@ -148,7 +148,7 @@ i,em{font-style:italic}
 .amostra .grade{display:grid;gap:34px;margin-top:30px;align-items:start}
 @media (min-width:900px){.amostra .grade{grid-template-columns:1.05fr .95fr;gap:56px}}
 .pagina-dev{background:#fbf8f1;border:1px solid var(--papel-2);border-radius:4px;padding:28px 26px;box-shadow:0 30px 60px -40px rgba(31,38,32,.55);color:var(--tinta)}
-.pagina-dev .ref{font:800 1rem/1 var(--f-tit);letter-spacing:.04em;color:var(--latao-2)}
+.pagina-dev .ref{font:800 1rem/1 var(--f-tit);letter-spacing:.04em;color:#7a611e}
 .pagina-dev h3{margin-top:10px;font-size:2rem;color:var(--tinta)}
 .pagina-dev p{margin-top:12px;font-size:1.08rem}
 .pagina-dev .acao-dia{margin-top:18px;padding:14px 16px;background:var(--papel);border-left:4px solid var(--latao);font-weight:700}
